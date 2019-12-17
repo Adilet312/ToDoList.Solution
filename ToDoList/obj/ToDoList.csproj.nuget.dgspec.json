@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amt/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj": {}
+  },
+  "projects": {
+    "/home/amt/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amt/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "/home/amt/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj",
+        "packagesPath": "/home/amt/.nuget/packages/",
+        "outputPath": "/home/amt/Desktop/ToDoList.Solution/ToDoList/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/amt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
